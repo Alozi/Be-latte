@@ -1,4 +1,5 @@
 # Be-latte
-Landing page by for cafe
+
+Landing page for cafe
 
 ![alt text](img/screencapture.png)
